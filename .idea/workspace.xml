@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eefaac6-19b5-4435-a26b-3c4f4ac8f7ee" name="Changes" comment="" />
+    <list default="true" id="9eefaac6-19b5-4435-a26b-3c4f4ac8f7ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/note.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +32,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2X4mVaNaKTMQrlJh0pNnGdhl1x3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +44,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Optional__Standard-modules",
+    "git-widget-placeholder": "webServer",
+    "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "18.18.2",
     "javascript.nodejs.core.library.typings.version": "18.18.2",
     "last_opened_file_path": "C:/Users/User/Documents/Result School/Модуль 3. Backend/NodeJS_basics",
@@ -53,6 +67,7 @@
       <updated>1697896750232</updated>
       <workItem from="1697896751239" duration="5157000" />
       <workItem from="1697964321121" duration="1235000" />
+      <workItem from="1697966220293" duration="32190000" />
     </task>
     <servers />
   </component>
