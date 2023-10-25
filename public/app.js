@@ -11,7 +11,7 @@ document.addEventListener("click", (event) => {
     const newValue = prompt(
       "Введите новое значение",
       event.target.closest("li").firstChild.textContent.trim()
-    );
+    ) || event.target.closest("li").firstChild.textContent.trim();
     edit(id, newValue).then(() => {
         event.target.closest("li").firstChild.replaceWith(newValue)
     });
